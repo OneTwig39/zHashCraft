@@ -12,7 +12,7 @@ Sha2-384:     sha2(message, digest=384)        Or: sha2(message, digest=(512, 38
 Sha2-512/224: sha2(message, digest=(512, 224))
 Sha2-512/256: sha2(message, digest=(512, 256))
 ```
-  
+
 Accepts string, bytes, or bytearray   
 Returns bytes  
 You can copy the functions into your code or put it in the same folder and import it as a library  
